@@ -1,0 +1,40 @@
+#popup{
+padding-top:80px;
+}
+.form{
+border-radius:2px;
+padding:20px 30px;
+box-shadow:0 0 15px;
+font-size:14px;
+font-weight:bold;
+width:350px;
+margin:20px 250px 0 35px;
+float:left;
+}
+
+#showdiv{
+position: absolute;
+top: 0px;
+left: 0px;
+height: 100%;
+width: 100%;
+background: rgba(61, 47, 48, 0.72);
+display: none;
+}
+#contact{
+width:50%;
+margin:0px;
+background-color:white;
+font-family: 'Fauna One', serif;
+position: relative;
+border: 5px solid rgb(90, 158, 181);
+}
+.img{
+float: right;
+margin-top: -33px;
+margin-right: -42px;
+}
+#contact{
+left: 23%;
+top: 20%;
+}
